@@ -1,14 +1,10 @@
-# Anonymous Real-time Chat
+# Chatlog Anonymous Real-time Chat
 
 ## Introduction
 
 > This is anonymous chat app was created for a tutorial about Nodejs, Express, and Socket.io and MongoDB.
 
-You should have a good understanding of how socket.io works at the end of this tutorial or after taking a look at the code.
 
-You will also learn how to show that someone is typing in a chat application.
-
-Here is a screenshot of it looks and functionality.
 
 ![alt text](https://github.com/rexeze/anonymouse-realtime-chat-app/blob/master/screenshots/chatscreenshot.gif "Chat Screen Shot")
 
@@ -73,7 +69,7 @@ socket.on("connection", socket => {
 
 ## Installation
 
-> Clone this repository and run
+> How to Run this repository
 
 ```bash
 npm install
